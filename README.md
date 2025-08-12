@@ -1,7 +1,7 @@
 # 🏀 Basketball Scorer
 
 A simple and interactive web app to keep track of basketball game scores.  
-Built with **HTML, CSS, and JavaScript** for quick setup and usage.
+Built with **HTML, CSS, and JavaScript** for quick setup and usage
 
 ---
 
